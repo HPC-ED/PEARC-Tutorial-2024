@@ -38,7 +38,7 @@ entry = {
     'subject': PROVIDER_ID + ':' + "CVW:clusterarch",
     'id': "std",
     'visible_to': ['public'],
-    'content': entry_content
+    'content': content
 }
 
 
