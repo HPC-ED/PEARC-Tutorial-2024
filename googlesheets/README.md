@@ -5,6 +5,7 @@ The below JavaScript code can be inserted into Google AppScript to create JSON f
 Features and Requirements:
 - An active Google Apps account
 - Requires a Google Sheet with HPC-ED metadata tags as the header
+  - [Example CSV with headers](HPC-ED_Test-Sheet-headers.csv) 
 - Formats appropriately for either single or multiple lines of entry data
 
 
