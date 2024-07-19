@@ -34,12 +34,11 @@ content['Duration']               = 60
 content['Rating']                 = None
 
 
-entry = {
-    'subject': PROVIDER_ID + ':' + "CVW:clusterarch",
-    'id': "std",
-    'visible_to': ['public'],
-    'content': content
-}
+entry = {}
+entry['subject']    = PROVIDER_ID + ':' + "CVW:clusterarch2"
+entry['id']         = 'std'
+entry['visible_to'] = ['public']
+entry['content']    = content
 
 
 # ONE 
@@ -49,12 +48,12 @@ metadata = {
 }
 
 # MANY
-# metadatas = [entry1, entry2, entry3, ...]
-# ingest_data = {
-#     'ingest_type': 'GMetaList',
-#     'ingest_data': {
-#         'gmeta': metadatas
-#     }
+# entries = [entry1, entry2, entry3, ...]
+# metadata = {
+#   'ingest_type': 'GMetaList',
+#   'ingest_data': {
+#     'gmeta': entries
+#   }
 # }
 
 # INGEST
@@ -70,6 +69,8 @@ task_list = search_client.get_task_list(INDEX_ID)
 for task in task_list["tasks"]:
     search_client.get_task(task["task_id"])
 
+# Search 
+search_client.get_subject(INDEX_ID, entry['subject'])
 
 # DELETE
 res_delete = search_client.delete_subject(INDEX_ID, entry['subject'])
