@@ -1,0 +1,36 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "REPLACE_ME",
+        "visible_to": ["public"],
+        "id": "std",
+        "content": {
+            "Abstract": "All about me! Write more if you want to.",
+            "Authors": ["REPLACE_ME_WITH_YOUR_NAME"],
+            "Cost": null,
+            "Duration": 10,
+            "Expertise_Level": [
+                "Intermediate"
+            ],
+            "Keywords": [
+                 "WHAT_ARE_MY_HOBBIES", "WORD_THAT_DESCRIBES_ME", "REPLACE_ME", "MAYBE_MORE_KEYWORDS"
+            ],
+            "Language": "en",
+            "Learning_Outcome": [
+                "Share and Learn"
+            ],
+            "Learning_Resource_Type": "for fun",
+            "License": null,
+            "Provider_ID": "REPLACE_ME_WITH_YOUR_INITIALS",
+            "Rating": 5.0,
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": null,
+            "Target_Group": [
+                "People at PEARCS", "friends", "families"
+            ],
+            "Title": "A_FUNNY_TITLE",
+            "URL": "A_LINK_TO_YOURSELF_IF_YOU_ARE_COMFORTABLE",
+            "Version_Date": "2023-06"
+        }
+    }
+}

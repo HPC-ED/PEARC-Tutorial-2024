@@ -1,0 +1,36 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf:glue2.access-ci.org:organization:cac.cornell.edu:CVW:ADD_YOUR_INITIAL_HERE",
+        "visible_to": ["public"],
+        "id": "std",
+        "content": {
+            "Abstract": "A Cornell CVW Page",
+            "Authors": ["Some One", "Someone Else"],
+            "Cost": null,
+            "Duration": 60,
+            "Expertise_Level": [
+                "Intermediate"
+            ],
+            "Keywords": [
+                 "tutorial", "test"
+            ],
+            "Language": "en",
+            "Learning_Outcome": [
+                "Create", "Ingest"
+            ],
+            "Learning_Resource_Type": "asynchronous online training",
+            "License": null,
+            "Provider_ID": "urn:ogf:glue2.access-ci.org:organization:cac.cornell.edu",
+            "Rating": 4.4,
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": null,
+            "Target_Group": [
+                "Researchers", "Research groups", "Student"
+            ],
+            "Title": "CVW Page",
+            "URL": "https://cvw.cac.cornell.edu",
+            "Version_Date": "2023-06"
+        }
+    }
+}
