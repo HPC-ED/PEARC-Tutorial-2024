@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202305-SDSCWebinar-Singularity-Containers",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "This webinar will briefly introduce how to build Singularity images and how to run them on the SDSC supercomputer clusters. We will also share some insider knowledge of best practices and pitfalls to avoid while working with Singularity. ",
+            "Authors": "Yuwu Chen",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2023-05-18T18:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "SDSC Webinar: Singularity Containers",
+            "URL": "https://education.sdsc.edu/training/interactive/202305-SDSCWebinar-Singularity-Containers",
+            "IV": true
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202302-SDSCWebinar-Batch-Job-Scheduling-Slurm-Edition",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Learn how to write your first batch job script and submit it to a Slurm batch job scheduler. We discuss best practices on how to structure your batch job scripts, teach you how to leverage Slurm environment variables, and provide you with some tips on how to request resources from the scheduler to get your work done faster.  We also introduce you to some advanced features like Slurm job arrays and job dependencies for more structured computational workflows.",
+            "Authors": "Marty Kandes",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2023-02-16T19:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "SDSC Webinar: Getting Started with Batch Job Scheduling: Slurm Edition",
+            "URL": "https://education.sdsc.edu/training/interactive/202302-SDSCWebinar-Batch-Job-Scheduling-Slurm-Edition",
+            "IV": true
+        }
+    }
+}

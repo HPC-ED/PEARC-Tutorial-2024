@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202205_gpuhack",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Application deadline is March 20, 2022.  The SDSC GPU Hackathon is a multi-day (May 3 + May 10-12), intensive hands-on event, designed to help computational scientists and researchers port, optimize, and accelerate their applications using GPUs. These events pair participants with dedicated mentors experienced in GPU programming and development. Representing distinguished scholars and preeminent institutions from around the world, the teams of mentors and attendees work together to realize performance gains and speedups by taking advantage of parallel programming on GPUs.",
+            "Authors": [],
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-05-03T07:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "GPU Hackathon",
+            "URL": "https://education.sdsc.edu/training/interactive/202205_gpuhack",
+            "IV": false
+        }
+    }
+}

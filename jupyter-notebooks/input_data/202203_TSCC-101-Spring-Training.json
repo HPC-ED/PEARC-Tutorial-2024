@@ -1,0 +1,34 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202203_TSCC-101-Spring-Training",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "This training will cover everything new users need to know about using the TSCC system. Topics will include: an overview of condo/hotel program; how to apply; accounts and allocation usage monitoring; environment and software modules; overview of various queues, building PBS job scripts, job submission and monitoring; data transfers; and file systems. ",
+            "Authors": "Yuwu Chen",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry",
+                "TSCC"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-03-03T21:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Triton Shared Computing Cluster (TSCC) 101 Spring Training ",
+            "URL": "https://education.sdsc.edu/training/interactive/202203_TSCC-101-Spring-Training",
+            "IV": false
+        }
+    }
+}

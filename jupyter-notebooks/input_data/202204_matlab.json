@@ -1,0 +1,34 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202204_matlab",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "In this session you will learn how to solve and accelerate computationally and data-intensive problems that are becoming common in the areas of machine learning and deep learning using multicore processors, GPUs, and computer clusters.",
+            "Authors": "Timothy Kyung",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry",
+                "TSCC"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-04-27T20:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Computing with MATLAB",
+            "URL": "https://education.sdsc.edu/training/interactive/202204_matlab",
+            "IV": true
+        }
+    }
+}

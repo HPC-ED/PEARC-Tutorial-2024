@@ -1,0 +1,205 @@
+{
+  "@datatype": "GSearchResult",
+  "@version": "2017-09-01",
+  "count": 5,
+  "gmeta": [
+    {
+      "@datatype": "GMetaResult",
+      "@version": "2019-08-27",
+      "entries": [
+        {
+          "content": {
+            "Abstract": " Interactive high-performance computing (HPC) involves real-time user inputs that result in actions being performed on HPC compute nodes. This session presents an overview of interactive computing tools and methods.",
+            "Authors": [],
+            "Expertise_Level": [
+              "All"
+            ],
+            "IV": false,
+            "Keywords": [
+              "Expanse",
+              "HPC Training",
+              "TSCC",
+              "Voyager"
+            ],
+            "Language": "en",
+            "Learning_Resource_Type": "recorded lesson",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": "2024-04-18T18:00:00.000000",
+            "Target_Group": [
+              "Research groups"
+            ],
+            "Title": "COMPLECS: Interactive Computing",
+            "URL": "https://education.sdsc.edu/training/interactive/202404-Interactive-Computing"
+          },
+          "entry_id": "std",
+          "matched_principal_sets": []
+        }
+      ],
+      "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202404-Interactive-Computing"
+    },
+    {
+      "@datatype": "GMetaResult",
+      "@version": "2019-08-27",
+      "entries": [
+        {
+          "content": {
+            "Abstract": "Bokeh is a software package in the Python ecosystem for data science that provides support for interactive visualization of data. As such, it is complementary to other visualization packages that focus more on enabling the generation of static figures for inclusion in publications and reports. Bokeh renders data visualizations within web browsers and Jupyter notebooks, providing capabilities for inspecting different aspects of plotted data, selecting and highlighting subsets of data, setting parameters through graphical user interfaces and direct interactions with plots, and the construction of dashboards that integrate different data streams and analyses based on user interactions.",
+            "Authors": [
+              "Chris Myers"
+            ],
+            "Cost": null,
+            "Duration": 240,
+            "Expertise_Level": null,
+            "Keywords": [
+              "Python",
+              "Bokeh",
+              "data",
+              "visualization",
+              "software",
+              "ecosystem",
+              "packages"
+            ],
+            "Language": "en",
+            "Learning_Outcome": null,
+            "Learning_Resource_Type": "asynchronous online training",
+            "License": null,
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:898",
+            "Rating": null,
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": null,
+            "Target_Group": [
+              "Researchers",
+              "Research groups",
+              "Student"
+            ],
+            "Title": "Interactive Data Visualization with Bokeh",
+            "URL": "https://cvw.cac.cornell.edu/bokeh",
+            "Version_Date": "2023-12"
+          },
+          "entry_id": "std",
+          "matched_principal_sets": []
+        }
+      ],
+      "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:898:CVW:bokeh"
+    },
+    {
+      "@datatype": "GMetaResult",
+      "@version": "2019-08-27",
+      "entries": [
+        {
+          "content": {
+            "Abstract": "In this session you will learn how to solve and accelerate computationally and data-intensive problems that are becoming common in the areas of machine learning and deep learning using multicore processors, GPUs, and computer clusters.",
+            "Authors": "Timothy Kyung",
+            "Expertise_Level": [
+              "All"
+            ],
+            "IV": true,
+            "Keywords": [
+              "Expanse",
+              "HPC Training",
+              "Industry",
+              "TSCC"
+            ],
+            "Language": "en",
+            "Learning_Resource_Type": "recorded lesson",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": "2022-04-27T20:00:00.000000",
+            "Target_Group": [
+              "Research groups"
+            ],
+            "Title": "Computing with MATLAB",
+            "URL": "https://education.sdsc.edu/training/interactive/202204_matlab"
+          },
+          "entry_id": "std",
+          "matched_principal_sets": []
+        }
+      ],
+      "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202204_matlab"
+    },
+    {
+      "@datatype": "GMetaResult",
+      "@version": "2019-08-27",
+      "entries": [
+        {
+          "content": {
+            "Abstract": "A brief introduction to fundamental concepts in parallel computing. No programming experience needed.",
+            "Authors": [],
+            "Expertise_Level": [
+              "All"
+            ],
+            "IV": false,
+            "Keywords": [
+              "HPC Training",
+              "Expanse",
+              "TSCC"
+            ],
+            "Language": "en",
+            "Learning_Resource_Type": "recorded lesson",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": "2024-05-02T18:00:00.000000",
+            "Target_Group": [
+              "Research groups"
+            ],
+            "Title": "COMPLECS: Parallel Computing Concepts",
+            "URL": "https://education.sdsc.edu/training/interactive/202405-Parallel-Computing-Concepts"
+          },
+          "entry_id": "std",
+          "matched_principal_sets": []
+        }
+      ],
+      "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202405-Parallel-Computing-Concepts"
+    },
+    {
+      "@datatype": "GMetaResult",
+      "@version": "2019-08-27",
+      "entries": [
+        {
+          "content": {
+            "Abstract": "There are a few simple things one can do in one's code to make the most of typical computing resources, up to and including high performance computing (HPC) resources. This roadmap covers basic aspects of code optimization that can have a big impact, as well as common performance pitfalls to avoid. The roadmap also explains the main features of microprocessor architecture and how they relate to the performance of compiled code.",
+            "Authors": [
+              "Brandon Barker, Steve Lantz"
+            ],
+            "Cost": null,
+            "Duration": 240,
+            "Expertise_Level": null,
+            "Keywords": [
+              "optimization",
+              "programming",
+              "performance",
+              "compiling",
+              "cache",
+              "data locality",
+              "libraries",
+              "arrays"
+            ],
+            "Language": "en",
+            "Learning_Outcome": null,
+            "Learning_Resource_Type": "asynchronous online training",
+            "License": null,
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:898",
+            "Rating": null,
+            "Resource_URL_Type": "URL",
+            "Start_Datetime": null,
+            "Target_Group": [
+              "Researchers",
+              "Research groups",
+              "Student"
+            ],
+            "Title": "Code Optimization",
+            "URL": "https://cvw.cac.cornell.edu/code-optimization",
+            "Version_Date": "2023-08"
+          },
+          "entry_id": "std",
+          "matched_principal_sets": []
+        }
+      ],
+      "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:898:CVW:code-optimization"
+    }
+  ],
+  "has_next_page": true,
+  "offset": 0,
+  "total": 9
+}

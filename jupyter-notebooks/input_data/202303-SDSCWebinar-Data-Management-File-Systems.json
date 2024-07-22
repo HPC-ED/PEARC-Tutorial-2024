@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202303-SDSCWebinar-Data-Management-File-Systems",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Managing data efficiently on a supercomputer is important from both users' and system's perspectives. In this webinar, we will cover a few basic data management techniques and I/O best practices in the context of the Expanse system at SDSC. ",
+            "Authors": "Mahidhar Tatineni",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2023-03-16T18:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "SDSC Webinar: Data Management & File Systems",
+            "URL": "https://education.sdsc.edu/training/interactive/202303-SDSCWebinar-Data-Management-File-Systems",
+            "IV": true
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "ingest_type": "GMetaList",
+    "ingest_data": {
+        "gmeta": [
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202403knit8",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "KNIT 8, the next FABRIC Community Workshop, will take place March 19-21, 2024 in San Diego, CA. KNIT 8 will be hosted by the San Diego Supercomputer Center and co-located with the Fifth National Research Platform (5NRP) Workshop. It will be the first workshop since FABRIC has entered full operations.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "NRP",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-03-19T07:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "KNIT8",
+                    "URL": "https://education.sdsc.edu/training/interactive/202403knit8",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202403-Code-Migration",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "Introduction to porting codes and workflows to HPC resources.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-03-07T19:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Code Migration",
+                    "URL": "https://education.sdsc.edu/training/interactive/202403-Code-Migration",
+                    "IV": true
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202402-HPC-Security-and-Getting-Help",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "HPC systems are shared resources, therefore all users must be aware of the complexity of working in a shared environment and the implications associated with resource management and security. This module also addresses two essential and related sets of skills that should be a part of everyone\u2019s toolbox, but that are frequently overlooked: (1) solving problems on your own leveraging online resources and (2) how to best work with the help desk or user support by properly collecting the information that can be used to help resolve your problem.",
+                    "Authors": "Nicole Wolter",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-02-15T19:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: HPC Security and Getting Help",
+                    "URL": "https://education.sdsc.edu/training/interactive/202402-HPC-Security-and-Getting-Help",
+                    "IV": true
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202401-Intermediate-Linux-and-shell-scripting",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "Many computational and data processing workloads require pre-processing of input files to get the data into a format that is compatible with the user\u2019s application and/or post-processing of output files to extract key results for further analysis. While these operations could be done by hand, they tend to be time-consuming, tedious and, worst of all, error prone. In this session we cover the Linux tools awk, sed, grep, sort, head, tail, cut, paste, cat and split, which will help users to easily automate repetitive tasks. We conclude by showing how large language models (LLMs) such as ChatGPT could be used to write commands using these tools.",
+                    "Authors": "Robert Sinkovits",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-02-02T02:03:29.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Linux Tools for File Processing",
+                    "URL": "https://education.sdsc.edu/training/interactive/202401-Intermediate-Linux-and-shell-scripting",
+                    "IV": true
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202402-Linux-Tools-for-File-Processing",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "An overview of commonly used Linux tools for searching and manipulating text.",
+                    "Authors": "Igor Sfiligoi",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-02-01T19:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Linux Tools for File Processing",
+                    "URL": "https://education.sdsc.edu/training/interactive/202402-Linux-Tools-for-File-Processing",
+                    "IV": false
+                }
+            }
+        ]
+    }
+}

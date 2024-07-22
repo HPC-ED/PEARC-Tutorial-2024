@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202204_ExpanseWebinar-Enduring-Security-The-Journey-Continues",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "The first in a recurring webinar series on using Expanse and other SDSC HPC resources securely. This webinar will cover security and security-related topics relevant to researchers and the trustworthiness of their work produced on these resources.",
+            "Authors": "Scott Sakai",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-04-21T18:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Expanse Webinar: Enduring Security: The Journey Continues",
+            "URL": "https://education.sdsc.edu/training/interactive/202204_ExpanseWebinar-Enduring-Security-The-Journey-Continues",
+            "IV": true
+        }
+    }
+}

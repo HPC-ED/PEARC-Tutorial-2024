@@ -1,0 +1,34 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202205_Kubernetes-for-Science-Compute",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Several new scientific compute resources are becoming available only through Kubernetes and their users will have to adapt their workloads to interface to it. This tutorial provides the basic Kubernetes notions any science user will need, paired with extensive hands-on exercises on a production-quality system to better explore the details.\u00a0",
+            "Authors": [],
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry",
+                "TSCC"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-05-04T16:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Kubernetes for Science Compute",
+            "URL": "https://education.sdsc.edu/training/interactive/202205_Kubernetes-for-Science-Compute",
+            "IV": false
+        }
+    }
+}

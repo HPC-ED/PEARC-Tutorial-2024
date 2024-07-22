@@ -1,0 +1,34 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202210_voyager1",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "This is the first of a two-part Voyager training session. Voyager is based on Intel\u2019s Habana Lab AI processors and provides a unique opportunity to use AI focused hardware for exploring AI in science and engineering. Voyager features Habana\u2019s Gaudi processors optimized for training, Goya processors optimized for inference, 100 GbE all-to-all connection within Gaudi nodes, 24 x 100GbE RDMA RoCE for scale-out across Gaudi nodes, and a Ceph file system.\n\n",
+            "Authors": [],
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "HPC Training",
+                "Industry",
+                "TSCC",
+                "Voyager"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-10-18T16:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Voyager Part 1",
+            "URL": "https://education.sdsc.edu/training/interactive/202210_voyager1",
+            "IV": false
+        }
+    }
+}

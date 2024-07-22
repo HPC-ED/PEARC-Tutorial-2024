@@ -1,0 +1,163 @@
+{
+    "ingest_type": "GMetaList",
+    "ingest_data": {
+        "gmeta": [
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202405-Parallel-Computing-Concepts",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "A brief introduction to fundamental concepts in parallel computing. No programming experience needed.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "HPC Training",
+                        "Expanse",
+                        "TSCC"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-05-02T18:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Parallel Computing Concepts",
+                    "URL": "https://education.sdsc.edu/training/interactive/202405-Parallel-Computing-Concepts",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202404-Interactive-Computing",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": " Interactive high-performance computing (HPC) involves real-time user inputs that result in actions being performed on HPC compute nodes. This session presents an overview of interactive computing tools and methods.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-04-18T18:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Interactive Computing",
+                    "URL": "https://education.sdsc.edu/training/interactive/202404-Interactive-Computing",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202404-HPC-Hardware-Overview",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": " A brief introduction into what makes up a HPC system and how users should use this information. No programming required.",
+                    "Authors": "Nicole Wolter",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-04-04T18:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: HPC Hardware Overview",
+                    "URL": "https://education.sdsc.edu/training/interactive/202404-HPC-Hardware-Overview",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202403-Batch-Computing-Part-1",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "A brief introduction to the Linux scheduler, how to interact with it, and run your research workloads on your personal computer, a shared workstation, or even a high-performance computing system.",
+                    "Authors": "Marty Kandes",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-03-21T18:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Batch Computing Part 1",
+                    "URL": "https://education.sdsc.edu/training/interactive/202403-Batch-Computing-Part-1",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202403_5nrp",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "The Fifth National Research Platform (5NRP) workshop will focus on examining opportunities for designing and implementing future-oriented cyber-capabilities for our science research communities, and how to engage researchers and educators. This event is held in partnership with FABRIC's KNIT 8 workshop. ",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "NRP",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-03-20T07:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "5NRP",
+                    "URL": "https://education.sdsc.edu/training/interactive/202403_5nrp",
+                    "IV": false
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "ingest_type": "GMetaList",
+    "ingest_data": {
+        "gmeta": [
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202405-Intermediate-Linux-and-Shell-Scripting",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "Knowledge of Linux is indispensable for using advanced CI. While GUIs are becoming more prevalent, being able to work at the command line interface (CLI) provides the greatest power and flexibility. In this session, we assume that participants are already comfortable with basic Linux operations such as creating, deleting and renaming files, and navigating between directories. Topics covered include the filesystem hierarchy, file permissions, symbolic and hard links, wildcards and file globbing, finding commands and files, environment variables and modules, configuration files, aliases, history and tips for effective Bash shell scripting.",
+                    "Authors": "Mary Thomas",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "TSCC"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-01-19T02:03:29.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Intermediate Linux and Shell Scripting",
+                    "URL": "https://education.sdsc.edu/training/interactive/202405-Intermediate-Linux-and-Shell-Scripting",
+                    "IV": true
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:20241_cipinfo",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "CyberTraining Information Session: Training and Developing a Research Computing and Data (RCD) CI Professionals Community. A joint program between UC San Diego, San Diego State University and Cal State University, San Bernardino partners to develop a CIP workforce.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "HPC Training",
+                        "Expanse",
+                        "TSCC",
+                        "Voyager",
+                        "Industry",
+                        "NRP"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-01-11T22:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "CIP Information Session",
+                    "URL": "https://education.sdsc.edu/training/interactive/20241_cipinfo",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202401_cipinfo",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "CyberTraining Information Session: Training and Developing a Research Computing and Data (RCD) CI Professionals Community. A joint program between UC San Diego, San Diego State University and Cal State University, San Bernardino partners to develop a CIP workforce.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "HPC Training",
+                        "Expanse",
+                        "TSCC",
+                        "Voyager",
+                        "Industry",
+                        "NRP"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-01-11T22:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "CIP Information Session",
+                    "URL": "https://education.sdsc.edu/training/interactive/202401_cipinfo",
+                    "IV": false
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202401-Parallel-Computing-Concepts",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "All users of advanced cyberinfrastructure, whether they develop their own software or use 3rd party applications, should understand fundamental parallel computing concepts. In this webinar we cover supercomputer architectures, the differences between threads and processes, implementations of parallelism (e.g., OpenMP and MPI), strong and weak scaling, limitations on scalability (Amdahl\u2019s and Gustafson\u2019s Laws) and benchmarking. We also discuss how to choose the appropriate number of compute cores or nodes when running your applications and, when appropriate, the best balance between threads and processes. This webinar does not assume any programming experience and is suited for a wide audience, including current and prospective users of parallel computers, anyone who expects to write a proposal for computer time or those who are simply curious about parallel computing.",
+                    "Authors": "Robert Sinkovits",
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2024-01-04T19:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "COMPLECS: Parallel computing concepts",
+                    "URL": "https://education.sdsc.edu/training/interactive/202401-Parallel-Computing-Concepts",
+                    "IV": true
+                }
+            },
+            {
+                "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202312_cipinfo",
+                "visible_to": [
+                    "public"
+                ],
+                "id": "std",
+                "content": {
+                    "Abstract": "CyberTraining Information Session: Training and Developing a Research Computing and Data (RCD) CI Professionals Community. A joint program between UC San Diego, San Diego State University and Cal State University, San Bernardino partners to develop a CIP workforce.",
+                    "Authors": [],
+                    "Expertise_Level": [
+                        "All"
+                    ],
+                    "Keywords": [
+                        "Expanse",
+                        "HPC Training",
+                        "Industry",
+                        "NRP",
+                        "TSCC",
+                        "Voyager"
+                    ],
+                    "Language": "en",
+                    "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+                    "Resource_URL_Type": "URL",
+                    "Learning_Resource_Type": "recorded lesson",
+                    "Start_Datetime": "2023-12-19T22:00:00.000000",
+                    "Target_Group": [
+                        "Research groups"
+                    ],
+                    "Title": "CIP Information Session",
+                    "URL": "https://education.sdsc.edu/training/interactive/202312_cipinfo",
+                    "IV": false
+                }
+            }
+        ]
+    }
+}

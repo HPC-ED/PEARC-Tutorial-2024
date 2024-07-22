@@ -1,0 +1,32 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202211_scc22",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Application deadline March 23. The SDSC and UC San Diego are putting together a team to compete in the Student Cluster Competition (SCC), held at the annual Supercomputing conference SC22 in Dallas, TX, November 14 \u2013 16. The SCC teams consist of a mentor plus 6 students who will design and build a small cluster with support from mentors and hardware and software vendor partners. They will learn designated scientific applications and apply optimization techniques for their chosen architectures. SCC teams compete in a non-stop 48-hour challenge to complete a real-world scientific workload, while keeping the cluster up and running, and demonstrating to the judges their HPC skills and knowledge.",
+            "Authors": [],
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-03-23T07:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "SCC at SC22",
+            "URL": "https://education.sdsc.edu/training/interactive/202211_scc22",
+            "IV": false
+        }
+    }
+}

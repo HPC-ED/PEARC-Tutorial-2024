@@ -1,0 +1,32 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202304-SDSCWebinar-Neural-Networks",
+        "visible_to": "public",
+        "id": "std",
+        "content": {
+            "abstract": "In this session you will learn how to solve and accelerate computationally and data-intensive problems that are becoming common in the areas of machine learning and deep learning using multicore processors, GPUs, and computer clusters.",
+            "authors": "Timothy Kyung",
+            "expertise_level": [
+                "All"
+            ],
+            "language": "en",
+            "keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry",
+                "TSCC"
+            ],
+            "provider_id": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "resource_url_type": "URL",
+            "learning_resource_type": "recorded lesson",
+            "start_datetime": "2022-04-27T20:00:00.000000",
+            "target_group": [
+                "Research groups"
+            ],
+            "title": "Computing with MATLAB",
+            "url": "https://education.sdsc.edu/training/interactive/202204_matlab",
+            "IV": "true"
+        }
+    }
+}

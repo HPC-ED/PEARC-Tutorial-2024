@@ -1,0 +1,33 @@
+{
+    "ingest_type": "GMetaEntry",
+    "ingest_data": {
+        "subject": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856:202203_ExpanseWebinar-M.Kandes",
+        "visible_to": [
+            "public"
+        ],
+        "id": "std",
+        "content": {
+            "Abstract": "Come learn all about Singularity containers. In this webinar, we'll provide an overview of Singularity and how you might incorporate the use of containers in your own research. We'll also show you how to access and use some of the containerized applications that we make available to users on Expanse at SDSC.",
+            "Authors": "Marty Kandes, Ph.D.",
+            "Expertise_Level": [
+                "All"
+            ],
+            "Keywords": [
+                "Expanse",
+                "HPC Training",
+                "Industry"
+            ],
+            "Language": "en",
+            "Provider_ID": "urn:ogf.org:glue2:access-ci.org:resource:cider:infrastructure.organizations:856",
+            "Resource_URL_Type": "URL",
+            "Learning_Resource_Type": "recorded lesson",
+            "Start_Datetime": "2022-03-17T18:00:00.000000",
+            "Target_Group": [
+                "Research groups"
+            ],
+            "Title": "Expanse Webinar: Singularity \u2013 Containers for Scientific and High-Performance Computing",
+            "URL": "https://education.sdsc.edu/training/interactive/202203_ExpanseWebinar-M.Kandes",
+            "IV": true
+        }
+    }
+}
