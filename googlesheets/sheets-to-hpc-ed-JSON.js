@@ -162,8 +162,9 @@ function makeJSONHPCED_(object, options) {
   
 
   var jsonHPCED = JSON.parse(jsonString);
-  var newjsonStringHPCED = {"ingest_type":jsonHPCED[0].ingest_type};
+  var newjsonStringHPCED = {};
   if (jsonHPCED.length == 1) {
+    newjsonStringHPCED = {"ingest_type":"GMetaEntry"};
     newjsonStringHPCED.ingest_data = {"subject": jsonHPCED[0].subject,
                                       "visible_to": jsonHPCED[0].visible_to.split(',').map(function (value) {return value.trimStart();}),
                                       "id": jsonHPCED[0].id,
@@ -189,9 +190,10 @@ function makeJSONHPCED_(object, options) {
                                         }
                                     };
   } else {
+     newjsonStringHPCED = {"ingest_type":"GMetaList"};
      newjsonStringHPCED.ingest_data = {"gmeta":  [] };
      for (let i = 0; i < jsonHPCED.length; i++){
-      newjsonStringHPCED.ingest_data.gmeta[i] = {"subject": jsonHPCED[i].subject,
+      newjsonStringHPCED.ingest_data.gmeta[i] = {"subject": jsonHPCED[0].subject,
                                       "visible_to": jsonHPCED[i].visible_to.split(',').map(function (value) {return value.trimStart();}),
                                       "id": jsonHPCED[i].id,
                                       "content" : {
