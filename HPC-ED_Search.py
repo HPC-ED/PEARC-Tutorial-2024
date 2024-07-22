@@ -90,7 +90,7 @@ def str2bool(v):
     return bool(distutils.util.strtobool(v))
 
 description = textwrap.dedent(
-    '''
+    r'''
     Globus Search Simple Script
     --------------------------------------------
      * (PACKAGES) Requires globus-sdk and pandas
@@ -104,7 +104,7 @@ description = textwrap.dedent(
 
 
 epilog = textwrap.dedent(
-    '''
+    r'''
     Usage examples
     (IMPORTANT) In these examples, the index id is stored in '$INDEX_ID'. 
     Save your index id to a variable and try the examples, makes changes if necessary.
