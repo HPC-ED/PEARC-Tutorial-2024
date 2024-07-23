@@ -1,7 +1,7 @@
 {
     "ingest_type": "GMetaEntry",
     "ingest_data": {
-        "subject": "REPLACE_ME",
+        "subject": "STARTS_WITH_VALID_URN:REPLACE_ME",
         "visible_to": ["public"],
         "id": "std",
         "content": {
